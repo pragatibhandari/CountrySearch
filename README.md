@@ -1,5 +1,4 @@
-##### To see the Live site 
-<a href = "https://stellular-twilight-368597.netlify.app/"> click here </a>
+##### To see the site demo <a href = "https://stellular-twilight-368597.netlify.app/"> click here </a>
 
 # Getting Started with Create React App
 
