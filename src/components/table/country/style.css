@@ -1,0 +1,49 @@
+.container1 {
+  padding-top: 15px;
+  padding-bottom: 100%;
+}
+.countryContainer {
+  border-radius: 20px;
+  background: #dedfe945;
+  width: 500px;
+  height: 100%;
+  margin: auto;
+  padding: 20px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+h1 {
+  padding: 0px 0px 10px 0px;
+  font-size: 40px;
+  font-weight: bolder;
+}
+.img {
+  padding: 10px 0px 10px 0px;
+  height: 60%;
+  width: 60%;
+}
+
+p {
+  margin: 0px;
+  text-align: left;
+}
+.title {
+  font-size: 20px;
+  font-weight: bold;
+}
+.button {
+  padding: 10px;
+}
+
+table,
+th,
+td {
+  border-collapse: collapse;
+  margin: auto;
+}
+th,
+td {
+  padding: 10px;
+  text-align: left;
+}
